@@ -1,1 +1,1 @@
-# Gender-Detection-on-Low-Resolution
+# Gender-Detection-using-Ensemble-Learning-on-CNN
